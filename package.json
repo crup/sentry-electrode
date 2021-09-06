@@ -38,6 +38,7 @@
   "dependencies": {
     "@loadable/component": "^5.7.0",
     "@loadable/server": "^5.9.0",
+    "babel-plugin-react-css-modules": "^5.2.6",
     "bluebird": "^3.4.6",
     "electrode-archetype-react-app": "7.0.0-beta7.0",
     "electrode-confippet": "^1.5.0",

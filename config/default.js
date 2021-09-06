@@ -14,6 +14,7 @@ module.exports = {
     demo: "hello from ui config"
   },
   webapp: {
+    prodBundleBase: `http://localhost:3000/js/`,
     module: "electrode-react-webapp/lib/express",
     options: {
       pageTitle: "sentry-electrode",
